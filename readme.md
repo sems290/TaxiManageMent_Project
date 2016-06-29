@@ -13,7 +13,7 @@ TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Tranin
 
 ## Supervisor
 
-   Dr.Ehsan Pazouki
+   Dr.Ehsan Pazouki [github page:](https://github.com/ehsanp61)
 
 ## Contributing
 
