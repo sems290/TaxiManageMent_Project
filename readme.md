@@ -1,15 +1,15 @@
-#    TaxiManagMent
+#                             " TaxiManagMent project "
 
 
-## Software Engineering Project
+## Software Engineering and Internet Engineering
 
-TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Traning University](http://www.srttu.edu/en/) 
+TxaiManagMent, The Project of Software Engineering requested by [Shahid Rajaee Teacher Traning University](http://www.srttu.edu/en/) 
 
 ## Members
 
-	- S.Maryam Sajadi
-	- Negin Motahari
-	- Mahboube Arebi
+	- S.Maryam  Sajadi
+	- Negin   Motahari
+	- Mahboube   Arebi
 
 ## Supervisor
 
@@ -21,17 +21,14 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 Template By [xenon](http://themes.laborator.co/xenon/)
 
-## Security 
-
-Scaned and Certificate By [acunetix](www.acunetix.com)
-
 ## Compatibility
 
 Scaned and Certificate By [BrowseEmAll](www.browseemall.com/)
 
-## GUI 
+## Security 
 
-Scaned and Certificate By [Selenium IDE ](https://github.com/SeleniumHQ/selenium/wiki/SeIDEReleaseNotes)
+Scaned and Certificate By [acunetix](www.acunetix.com)
+
 
 ## Framework
 
