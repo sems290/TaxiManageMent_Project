@@ -11,9 +11,7 @@ TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Tranin
 	- Negin Motahari
 	- Mahboube Arebi
 
-## Supervisor
 
-    Dr.Ehsan Pazoki 
 
 
 ## Contributing
@@ -36,7 +34,7 @@ Scaned and Certificate By [Selenium IDE ](https://github.com/SeleniumHQ/selenium
 
 ## Framework
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.[Shahid Rajaee Teacher Traning University](http://www.srttu.edu/en/) 
+Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
 
 
