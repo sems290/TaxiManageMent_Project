@@ -12,7 +12,7 @@ TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Tranin
 	- Mahboube Arebi
 ## Supervisor
 
-    Dr.Ehsan Pazoki [his page](http://www.srttu.edu/en/)
+    Dr.Ehsan Pazoki
 
 
 
