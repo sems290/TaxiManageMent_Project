@@ -4,7 +4,9 @@
 ## Software Engineering Project
 
 TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Traning University](http://www.srttu.edu/en/) 
+## Supervisor
 
+    Dr.Ehsan Pazoki
 ## Members
 
 	- S.Maryam Sajadi
@@ -20,9 +22,6 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 Template By [xenon](http://themes.laborator.co/xenon/)
 
-## Supervisor
-
-    Dr.Ehsan Pazoki 
 ## Security 
 
 Scaned and Certificate By [acunetix](www.acunetix.com)
