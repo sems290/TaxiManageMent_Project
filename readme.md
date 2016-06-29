@@ -4,17 +4,16 @@
 ## Software Engineering Project
 
 TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Traning University](http://www.srttu.edu/en/) 
-## Supervisor
 
-    Dr.Ehsan Pazoki
 ## Members
 
 	- S.Maryam Sajadi
 	- Negin Motahari
 	- Mahboube Arebi
 
+## Supervisor
 
-
+   Dr.Ehsan Pazouki
 
 ## Contributing
 
