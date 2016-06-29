@@ -13,7 +13,7 @@ TxaiManagMent, The Project of Software Engineering requested by [Shahid Rajaee T
 
 ## Supervisor
 
-   Dr.Ehsan Pazouki [github page:](https://github.com/ehsanp61)
+   Dr.Ehsan Pazouki [github page](https://github.com/ehsanp61)
 
 ## Contributing
 
