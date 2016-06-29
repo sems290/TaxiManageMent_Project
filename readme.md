@@ -7,7 +7,7 @@ TxaiManagMent, The Project Software Engineering of [Shahid Rajaee Teacher Tranin
 
 ## Members
 
-   ######	- S.Maryam Sajadi
+	- S.Maryam Sajadi
 	- Negin Motahari
 	- Mahboube Arebi
 ## Supervisor
