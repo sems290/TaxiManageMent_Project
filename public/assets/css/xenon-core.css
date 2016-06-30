@@ -665,7 +665,7 @@ a {
   outline: none !important;
 }
 p {
-  color: #979898;
+ color: rgba(255, 255, 255, 0.9);
 }
 html,
 body {
@@ -789,7 +789,7 @@ body {
   display: table-cell;
   position: relative;
   width: 340px;
-  background: #2c2e2f;
+  background: #1994D2;
   z-index: 1;
 }
 .sidebar-menu .logo-env {
@@ -808,7 +808,7 @@ body {
   top: 1px;
 }
 .sidebar-menu .logo-env .settings-icon a {
-  color: #979898;
+  color: #ffba00;
   line-height: 1;
 }
 .sidebar-menu .logo-env .settings-icon a i {
@@ -832,7 +832,7 @@ body {
   }
 }
 .sidebar-menu .main-menu a {
-  color: #979898;
+  color: #ffba00;
   text-decoration: none;
   display: block;
   padding: 13px 5px;
@@ -3211,11 +3211,11 @@ body.chat-open #chat {
   box-shadow: 0 1px 1px rgba(0,1,1,.08);
 }
 .panel.panel-inverted {
-  background: #2c2e2f;
+  background: #40bbea;
   color: #FFF;
 }
 .panel.panel-inverted > .panel-heading {
-  border-bottom-color: #393c3e;
+  border-bottom-color:#FFBA00;
 }
 .panel.panel-inverted > .panel-disabled {
   background: rgba(44, 46, 47, 0.5);
@@ -6831,4 +6831,10 @@ pre {
     padding-top: 15px;
     padding-bottom: 48px;
   }
+}
+
+
+
+h1{
+  color: #40bbea !important;
 }

@@ -2962,7 +2962,7 @@ button.toast-close-button {
   display: inline-block !important;
 }
 .login-page {
-  background: #2c2e2f;
+  background: #1994D2 !important;
   color: #fff;
   padding-top: 150px;
 }
@@ -3062,12 +3062,12 @@ button.toast-close-button {
 }
 .login-page .login-form .login-header .logo span {
   padding-left: 3px;
-  color: rgba(151, 152, 152, 0.6);
+  color: #ffba00;
   font-size: 15px;
   vertical-align: baseline;
 }
 .login-page .login-form .login-header p {
-  color: #979898;
+  color: #ffba00;
   font-size: 13px;
   margin: 0;
   margin-top: 10px;
@@ -3177,13 +3177,13 @@ button.toast-close-button {
   color: #fff;
 }
 .login-page .login-form .form-group .btn.btn-dark:hover {
-  background-color: rgba(55, 57, 58, 0.3);
+  background-color: #95cd62;
 }
 .login-page .login-form .login-footer {
   margin-top: 45px;
 }
 .login-page .login-form .login-footer a {
-  color: #979898;
+  color: #ffba00;
 }
 .login-page .login-form .login-footer a:hover {
   color: #bdbebe;
@@ -3194,7 +3194,7 @@ button.toast-close-button {
   color: rgba(151, 152, 152, 0.7);
 }
 .login-page .login-form .login-footer .info-links a {
-  color: rgba(151, 152, 152, 0.7);
+  color: #ffba00;
 }
 .login-page .login-form .login-footer .info-links a:hover {
   color: #979898;
